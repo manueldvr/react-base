@@ -11,7 +11,7 @@ React Basics stack:
 - tailwindcss, react-icons 
 - npm (Nodejs) libs
 - [Github Pages deploy](https://manueldvr.github.io/react-base/)
-
+- calls to https://jsonplaceholder.typicode.com/posts
 
 ---
 
