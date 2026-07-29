@@ -10,7 +10,8 @@ React Basics stack:
 - Vitejs, 
 - tailwindcss, react-icons 
 - npm (Nodejs) libs
-- [Github Pages deploy](https://manueldvr.github.io/react-base/)
+- [Github Pages deploy](https://manueldvr.github.io/react-base/) 
+- and: https://docs.github.com/en/pages
 - calls to https://jsonplaceholder.typicode.com/posts
 
 ---
