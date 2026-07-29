@@ -1,3 +1,20 @@
+# My Vite Proyect
+
+React Basics stack: 
+- Components, 
+- props, 
+- useState, 
+- hooks, 
+- useContext, useEffect, 
+- tools like create-react-app, 
+- Vitejs, 
+- tailwindcss, react-icons 
+- npm (Nodejs) libs
+- [Github Pages deploy](https://manueldvr.github.io/react-base/)
+
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
